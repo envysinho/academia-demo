@@ -1,4 +1,5 @@
 .m2/
+.tools/
 .idea/
 .vscode/
 target/
@@ -9,4 +10,6 @@ build/
 .env.*
 !.env.example
 *.log
+uploads/
+backend/uploads/
 .DS_Store
